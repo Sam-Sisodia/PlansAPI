@@ -13,6 +13,7 @@ media
 myvenv
 app/migrations
 python
+.python
 
 
 # If your build process includes running collectstatic, then you probably don't need or want to include staticfiles/
